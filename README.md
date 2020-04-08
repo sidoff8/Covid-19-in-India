@@ -1,2 +1,2 @@
-# Covid-19_in India
+# COVID-19 Forecast using ARIMA in India
 
