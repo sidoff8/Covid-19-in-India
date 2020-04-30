@@ -7,7 +7,7 @@ We used ARIMA model for forecasting with love.
 ##### Consider giving a upVote if you like the notebook <3
 
 #### This is the Final Forecast which we have made 
-##### Thus you can see that the number of cases will rise in India till 30 may considering that the lockdown is continued / social distancing is maintained, and towards the end of the may we will witness a fall in the number of cases in India.
+##### Thus you can see that the number of cases will rise in India till last week of may considering that the lockdown is continued / social distancing is maintained, and towards the end of the may we will witness a fall in the number of cases in India.
 
 ###### PS : This graph is Number of new cases per day.
 ![](till_may_30.png)
